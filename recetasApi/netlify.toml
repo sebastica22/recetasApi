@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "frontendstore.html"
+status = 200
